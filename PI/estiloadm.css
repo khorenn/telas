@@ -1,0 +1,25 @@
+body{
+    background-color: #3f3b3b;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.alinha{
+    text-align: center;
+    margin-left: 42%;
+}
+p{
+    color: white;
+}
+.bordinea{
+    border: solid 1px;
+    border-color: aqua;
+    margin-right: 111px 
+}
